@@ -15,7 +15,7 @@ public class QuickCoding03 {
 		
 		System.out.println("숫자 두개를 입력해주세요.");
 		String num1 = sc.next();
-		String num2 = sc.next();
+		String num2 = sc.next();//형근 하이
 		
 		
 		try{
