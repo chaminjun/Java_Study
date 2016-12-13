@@ -1,6 +1,6 @@
 
 import java.util.Scanner;
-
+//ㅎㅇㅎㅇ
 class MyException extends Exception{
     
     public MyException(){
